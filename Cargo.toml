@@ -1,0 +1,8 @@
+[package]
+name = "kick-out"
+version = "0.1.0"
+authors = ["Aram Drevekenin <aram@poor.dev>"]
+edition = "2018"
+
+[dependencies]
+zellij-tile = { git = "https://github.com/zellij-org/zellij", version = "0.41.0" } # TODO: CHANGEME
